@@ -11,7 +11,7 @@ import requests,json,time,os,sys
 reload(sys)
 sys.setdefaultencoding('utf8')
 def logo():
-        os.system('termux-open wa.me/6282331072836')
+        os.system('termux-open https://wa.me/6282331072836/?text=Assalamualaikum+Apa+kabar+MR.404')
         os.system('clear')
 	print '''%s
   __________________  _________
