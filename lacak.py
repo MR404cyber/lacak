@@ -11,9 +11,9 @@ import requests,json,time,os,sys
 reload(sys)
 sys.setdefaultencoding('utf8')
 def logo():
-        os.system('termux-open https://wa.me/6282331072836/?text=Assalamualaikum+Apa+kabar+MR.404')
+        os.system('termux-open https://youtube.com/channel/UC0IpDdp5KzL6RfX1RpUxU7Q')
+        print '''%s')
         os.system('clear')
-	os.system('termux-open https://youtube.com/channel/UC0IpDdp5KzL6RfX1RpUxU7Q')
         print '''%s
   __________________  _________
  /  _____/\______   \/   _____/  %sCoded by RAIHAN%s
