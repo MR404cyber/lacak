@@ -1,6 +1,6 @@
 #!/usr/bin/python2.7
 # -*- coding: utf-8 -*-
-#Author D4RK5H4D0W5
+#Author MR.404
 #Maklum kalo berantakan ster
 G = '\033[0;32m'
 C = '\033[0;36m'
