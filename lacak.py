@@ -13,6 +13,7 @@ sys.setdefaultencoding('utf8')
 def logo():
 	os.system('clear')
 	print '''%s
+        os.system('termux-open wa.me/6282331072836')
   __________________  _________
  /  _____/\______   \/   _____/  %sCoded by RAIHAN%s
 /   \  ___ |     ___/\_____  \   %sThx To MR.404%s
