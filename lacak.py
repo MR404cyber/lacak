@@ -13,7 +13,8 @@ sys.setdefaultencoding('utf8')
 def logo():
         os.system('termux-open https://wa.me/6282331072836/?text=Assalamualaikum+Apa+kabar+MR.404')
         os.system('clear')
-	print '''%s
+	os.system('termux-open https://youtube.com/channel/UC0IpDdp5KzL6RfX1RpUxU7Q')
+        print '''%s
   __________________  _________
  /  _____/\______   \/   _____/  %sCoded by RAIHAN%s
 /   \  ___ |     ___/\_____  \   %sThx To MR.404%s
