@@ -12,7 +12,6 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 def logo():
         os.system('termux-open https://youtube.com/channel/UC0IpDdp5KzL6RfX1RpUxU7Q')
-        print '''%s')
         os.system('clear')
         print '''%s
   __________________  _________
